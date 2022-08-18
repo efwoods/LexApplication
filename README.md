@@ -13,9 +13,17 @@ You will maximize your potential by first working smart then driving at your wor
 
 I built a robot to sort washers based on color and weight. I developed software algorithms both for a visual system that detected washer color and position and for an Arduino Uno microcontroller that controlled the motor to precisely spin the disk which held the washers to the correct location to pick the washers up using magnetism. This robot won Senior design and sorted washers faster than any other senior design team.
 
+
+
+
+Talk about the video you made in college
+link: https://youtu.be/DdFyWX_hRWY
+
+Talk about the python scripts you made to automate tasks:
+
 I trained a neural network to detect cancer in samples of brain tissue. I wrote bash scripts to automate the Palmetto Super Cluster to train and test hundreds of neural networks on tissue sample datasets provided by the NIH using a variety of different splits of the training and testing data. Using python, bash, and tensorflow, I was able to create a neural network that successfully detected cancer in a random sample of brain tissue with 95% accuracy.
 
-I developed a mind-controlled 3D printing system to print based upon a person's thoughts. I trained a neural network to detect known thought patterns which were detected using an Emotiv EPOC and it's software, then I created a script to poll for the detection of this pattern, send a signal across a network to a MakerBot 3D printer, and translate that signal into G-Code to drive the motors of the 3D printer. We were able to successfully print in six directions by thinking "left, right, up, down, forward, and back" respectively, and could later print more elaborate 3D models by using preset G-Code designs and training a network to detect this design based upon this known thought.
+Talk about working with Arduinos to win Senior Design
 
 ####
 ####
